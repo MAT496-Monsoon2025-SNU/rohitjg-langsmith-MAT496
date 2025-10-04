@@ -44,3 +44,9 @@ What's changed: Changed the evaluator for the Electronics & Microcontroller Q&A 
 Learnt again about custom evaluators to measure response length vs reference, dataset flexibility(can evaluate against full datasets, specific versions, custom splits, or individual example IDs), performance control(max_concurrency, num_repetitions) for scaling experiments, Metadata Tracking (Custom metadata like model names), version control of datasets.
 
 What's changed: Did the experinemnt over Electronics & Microcontroller Q&A dataset with handpicked split.
+
+## Video 4 - Analyzing Experiment Results
+
+Learnt about how experiments are useful for seeing trends in your application performance as you improve it over time, and how we can deep dive into a single experiment and look into how each individual run performed on the dataset example.
+
+![1759590132756](image/README/1759590132756.png)
