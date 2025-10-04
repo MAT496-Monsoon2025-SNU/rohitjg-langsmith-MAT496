@@ -50,3 +50,9 @@ What's changed: Did the experinemnt over Electronics & Microcontroller Q&A datas
 Learnt about how experiments are useful for seeing trends in your application performance as you improve it over time, and how we can deep dive into a single experiment and look into how each individual run performed on the dataset example.
 
 ![1759590132756](image/README/1759590132756.png)
+
+## Video 5 - Pairwise Experiments
+
+Learnt pairwise evaluations compare multiple experiments head to head, on how to define pairwise evaluators to use LLM as judge, heuristic, etc.
+
+What's changed: Transformed the original pair wise evaluation into a theamed one. i.e a corporate showdown between a strategic executive advisor and a lazy intern, judged by a witty business consultant using real Fortune 500 criteria.
