@@ -38,3 +38,9 @@ What's changed: Created a Electronics & Microcontroller Q&A Dataset for a future
 Learnt that evaluators calculate metrics based on a Run adn an example, specifiocally, from the input, reference output, and run output. You can define evaluators directly in your local code or in the langsmith UI (LLM-as-judge, custom code evaluators)
 
 What's changed: Changed the evaluator for the Electronics & Microcontroller Q&A based and tested out the similarity.
+
+## Video 3 - Experiments
+
+Learnt again about custom evaluators to measure response length vs reference, dataset flexibility(can evaluate against full datasets, specific versions, custom splits, or individual example IDs), performance control(max_concurrency, num_repetitions) for scaling experiments, Metadata Tracking (Custom metadata like model names), version control of datasets.
+
+What's changed: Did the experinemnt over Electronics & Microcontroller Q&A dataset with handpicked split.
