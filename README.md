@@ -56,3 +56,13 @@ Learnt about how experiments are useful for seeing trends in your application pe
 Learnt pairwise evaluations compare multiple experiments head to head, on how to define pairwise evaluators to use LLM as judge, heuristic, etc.
 
 What's changed: Transformed the original pair wise evaluation into a theamed one. i.e a corporate showdown between a strategic executive advisor and a lazy intern, judged by a witty business consultant using real Fortune 500 criteria.
+
+![1759591446995](image/README/1759591446995.png)
+
+## Video 6 - Summary Evaluators
+
+Learnt that some metrics liek precision, recall, or f1_score can only be calculated across an entire experiment, and are not meaningful for a single example, also learnt that we can calculate these metrics with summary evaluators, summary evaluators take in an list of Runs and Examples.
+
+What's Changed: Used the dataset given and more deep than the video into how the reuslt is put in the langsmith UI while understanding all the relavent keywords in the analysis output.
+
+![1759591934839](image/README/1759591934839.png)
