@@ -32,3 +32,9 @@ What's changed: Added a example when RAG search cant find the needed item.
 In this we have used concept of dataset, added dataset programatically, from traits, manually or ai generated.
 
 What's changed: Created a Electronics & Microcontroller Q&A Dataset for a future potential project.
+
+## Video 2 - Evaluators
+
+Learnt that evaluators calculate metrics based on a Run adn an example, specifiocally, from the input, reference output, and run output. You can define evaluators directly in your local code or in the langsmith UI (LLM-as-judge, custom code evaluators)
+
+What's changed: Changed the evaluator for the Electronics & Microcontroller Q&A based and tested out the similarity.
