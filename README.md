@@ -74,3 +74,9 @@ What's Changed: Used the dataset given and more deep than the video into how the
 Learnt how to use create_dataset() function for Database creation and also create_examples() for adding input/output pairs. I also learnt creating datasets and runing prompts in LangSmith Playground UI for interactive testing. Also understood the bridge between code based dataset creation and visual playground experimentation.
 
 What's Changed: Changed the domain from generic examples to Embedded systems questions, updated the input output examples to some practical content, also added content with technical accuracy to see if its intact between conversations.
+
+## Video 2 - Prompt Hub
+
+Learnt how to use pull_prompt() to retreve existing prompts from langsmith hub, also used .invoke to fill in template variables with actual values. We also learnt how to convert langchain prompts to openai format with convert_prompt_to_openai_format(), also learnt how to push prompt using .push_prompt()
+
+What's Changed: Did theme transformation, to the arduino/electronics expert, while also creatign a prompt specifically for this in prompt playground langsmith UI.
