@@ -24,7 +24,6 @@ Learnt about how to create and execute task in a specific thread and how u name 
 
 What's changed: Added a example when RAG search cant find the needed item.
 
-
 # Module 2
 
 ## Video 1 - Datasets
@@ -66,3 +65,12 @@ Learnt that some metrics liek precision, recall, or f1_score can only be calcula
 What's Changed: Used the dataset given and more deep than the video into how the reuslt is put in the langsmith UI while understanding all the relavent keywords in the analysis output.
 
 ![1759591934839](image/README/1759591934839.png)
+
+
+# Module 3
+
+## Video 1 - Playground
+
+Learnt how to use create_dataset() function for Database creation and also create_examples() for adding input/output pairs. I also learnt creating datasets and runing prompts in LangSmith Playground UI for interactive testing. Also understood the bridge between code based dataset creation and visual playground experimentation.
+
+What's Changed: Changed the domain from generic examples to Embedded systems questions, updated the input output examples to some practical content, also added content with technical accuracy to see if its intact between conversations.
