@@ -80,3 +80,9 @@ What's Changed: Changed the domain from generic examples to Embedded systems que
 Learnt how to use pull_prompt() to retreve existing prompts from langsmith hub, also used .invoke to fill in template variables with actual values. We also learnt how to convert langchain prompts to openai format with convert_prompt_to_openai_format(), also learnt how to push prompt using .push_prompt()
 
 What's Changed: Did theme transformation, to the arduino/electronics expert, while also creatign a prompt specifically for this in prompt playground langsmith UI.
+
+## Video 3 - Prompt Engineering Lifecycle
+
+Learnt a complete RAG implementation with LangSmith tracing, showing how to create datasets, prompt engineering, build vector stores, and implement proper observability for LLM applications.
+
+What's Changes: Enhanced the RAG testing from single question to multi query evaluation with performance metrics with response time and no of words.
