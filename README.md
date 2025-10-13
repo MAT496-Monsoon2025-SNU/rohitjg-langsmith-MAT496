@@ -86,3 +86,9 @@ What's Changed: Did theme transformation, to the arduino/electronics expert, whi
 Learnt a complete RAG implementation with LangSmith tracing, showing how to create datasets, prompt engineering, build vector stores, and implement proper observability for LLM applications.
 
 What's Changes: Enhanced the RAG testing from single question to multi query evaluation with performance metrics with response time and no of words.
+
+## Video 4 - Prompt Canvas
+
+Learnt how to use the prompt canvas, and use LLMs to write better prompts, nd on how to use custom actions for standardization.
+
+What's Changed: There is no code for this, as this is more in the langsmith UI, I tried around with different prompts and tried using quick actions.
